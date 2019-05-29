@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_first">First Page</string>
+    <string name="label_second">Second Page</string>
+    <string name="label_third">Third Page</string>
+    <string name="label_giraffe">拉丁文名字的意思是“长着豹纹的骆驼” 。它们是世界上现存最高的陆生动物。站立时由头至脚可达6-8米，体重约700千克，刚出生的幼仔就有1.5米高。</string>
+    <string name="label_zebra">斑马为非洲特产。因身上有起保护作用的斑纹而得名。没有任何动物比斑马的皮毛更与众不同。斑马周身的条纹和人类的指纹一样——没有任何两头完全相同。</string>
+    <string name="label_panda">体色为黑白两色，它有着圆圆的脸颊，大大的黑眼圈，胖嘟嘟的身体，标志性的内八字的行走方式，也有解剖刀般锋利的爪子。是世界上最可爱的动物之一。</string>
+</resources>
